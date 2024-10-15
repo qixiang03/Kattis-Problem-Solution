@@ -1,6 +1,6 @@
 # 99 Problems Solver
 
-This script solves the [99 Problems problem](link-to-the-problem) where the goal is to find the nearest positive integer ending in 99 for a given product price `N`. If two such numbers are equally close, the bigger one should be returned.
+This script solves the [99 Problems problem](https://open.kattis.com/problems/99problems) where the goal is to find the nearest positive integer ending in 99 for a given product price `N`. If two such numbers are equally close, the bigger one should be returned.
 
 ## Problem Description
 
