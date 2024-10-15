@@ -24,7 +24,7 @@ Each problem solution is stored in its own directory, named after the problem or
 ## 🧩 Problems Solved So Far
 
 1. [2048](./2048/2048.py) - A simulation of the 2048 game mechanics
-2. [99 Problem](./99Problem/99Problem.py) - Finding the nearest price ending in 99
+2. [99 Problem](./99-Problem/99Problem.py) - Finding the nearest price ending in 99
 
 ## 💻 Technologies Used
 
