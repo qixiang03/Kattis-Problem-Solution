@@ -1,6 +1,6 @@
 # 2048 Solver
 
-This script implements a solution for a 2048 game simulation problem.
+This script implements a solution for a [2048 game simulation problem from Kattis](https://open.kattis.com/problems/2048).
 
 ## Problem Description
 
