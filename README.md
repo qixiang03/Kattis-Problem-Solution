@@ -37,5 +37,5 @@ While this is a personal challenge, I'm open to discussions about the problems a
 
 ## 📈 Progress
 
-I started this challenge on [October 15 2024]. Check back regularly to see my latest solutions!
+I started this challenge on October 15 2024. Check back regularly to see my latest solutions!
 
