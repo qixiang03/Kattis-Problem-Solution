@@ -1,7 +1,7 @@
 # A Cappella Recording Problem
 
 ## Problem Description
-
+Link to the problem: [here](https://open.kattis.com/problems/acappellarecording)
 Geoffry is preparing an a cappella composition where he sings the entire song by himself. Each note of the song has a pitch between 0 and 10^9. Due to the varying pitches, Geoffry will record himself singing multiple times. In a single recording, he will sing a subset of notes within a limited pitch range to avoid straining his voice.
 
 The task is to compute the minimum number of recordings Geoffry needs to make to ensure each note is sung in at least one recording.
