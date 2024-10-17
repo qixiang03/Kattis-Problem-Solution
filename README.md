@@ -23,9 +23,10 @@ Each problem solution is stored in its own directory, named after the problem or
 
 ## 🧩 Problems Solved So Far
 
-1. [2048](./2048/2048.py) - A simulation of the 2048 game mechanics
-2. [99 Problem](./99-Problem/99Problem.py) - Finding the nearest price ending in 99
-3. [A Cappella Recording](./a-capella-recording/a-capella-recording.py) - Calculating the minimum number of recordings for an a cappella song
+1. [2048](./2048/README.md) - A simulation of the 2048 game mechanics
+2. [99 Problem](./99-Problem/README.md) - Finding the nearest price ending in 99
+3. [A Cappella Recording](./a-capella-recording/README.md) - Calculating the minimum number of recordings for an a cappella song
+4. [Bit by Bit](./Bit-by-Bit/README.md): Manipulate individual bits of a 32-bit register based on a sequence of instructions.
 
 ## 💻 Technologies Used
 
