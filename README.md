@@ -25,6 +25,7 @@ Each problem solution is stored in its own directory, named after the problem or
 
 1. [2048](./2048/2048.py) - A simulation of the 2048 game mechanics
 2. [99 Problem](./99-Problem/99Problem.py) - Finding the nearest price ending in 99
+3. [A Cappella Recording](./a-capella-recording/a-capella-recording.py) - Calculating the minimum number of recordings for an a cappella song
 
 ## 💻 Technologies Used
 
