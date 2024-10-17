@@ -1,6 +1,7 @@
 # Bit by Bit Problem
 
 ## Problem Description
+This script implements a solution for a [Bit by Bit Problem](https://open.kattis.com/problems/bitbybit).
 A brand new Ultra-CISC microprocessor has a collection of instructions for manipulating individual bits of one of its 32-bit registers. The instructions work as described in the following table. In all cases, bit 0 is the low-order bit and bit 31 is the high-order bit. The representation of the instruction set makes it impossible to try to manipulate bits outside this range.
 
 | Instruction | Description |
