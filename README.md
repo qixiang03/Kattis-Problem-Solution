@@ -27,6 +27,9 @@ Each problem solution is stored in its own directory, named after the problem or
 2. [99 Problem](./99-Problem/README.md) - Finding the nearest price ending in 99
 3. [A Cappella Recording](./a-capella-recording/README.md) - Calculating the minimum number of recordings for an a cappella song
 4. [Bit by Bit](./bit-by-bit/README.md): Manipulate individual bits of a 32-bit register based on a sequence of instructions.
+5. [Bocchi's Rocks](Bocchi's-Rocks/README.md) - [Kattis Link](https://open.kattis.com/problems/bocchinorokku)
+  - Python solution to sort and rank Bocchi's rock collection.
+  - Key optimization from N^2 to N log N time complexity to handle larger inputs.
 
 ## 💻 Technologies Used
 
